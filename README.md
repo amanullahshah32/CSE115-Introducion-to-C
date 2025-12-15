@@ -2,3 +2,4 @@
 c prog
 fd
 dfd
+\n dfd
