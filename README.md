@@ -1,5 +1,5 @@
 # CSE115-Introducion-to-C
-c prog
+c proggh
 fd
 dfd
 \n dfd
