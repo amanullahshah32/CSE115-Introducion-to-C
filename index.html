@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSE115 - C Code Practice</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- CodeMirror for code editor -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.13/codemirror.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.13/theme/dracula.min.css">
+    <!-- Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <!-- Confetti -->
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+</head>
+<body>
+    <!-- Celebration Overlay -->
+    <div id="celebration" class="celebration hidden">
+        <div class="celebration-content">
+            <div class="success-icon">✓</div>
+            <h2>🎉 Code Compiled Successfully! 🎉</h2>
+            <p>Great job! Your C code ran without errors!</p>
+            <button onclick="closeCelebration()">Continue Coding</button>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header>
+        <div class="logo">
+            <span class="logo-icon">⚡</span>
+            <h1>CSE115 C Playground</h1>
+        </div>
+        <p class="tagline">Write, Run & Learn C Programming</p>
+    </header>
+
+    <!-- Main Container -->
+    <main>
+        <div class="editor-container">
+            <div class="panel">
+                <div class="panel-header">
+                    <span class="panel-title">📝 Code Editor</span>
+                    <div class="controls">
+                        <select id="examples" onchange="loadExample()">
+                            <option value="">-- Load Example --</option>
+                            <option value="hello">Hello World</option>
+                            <option value="input">User Input</option>
+                            <option value="array">Array Sum</option>
+                            <option value="loop">For Loop</option>
+                            <option value="function">Functions</option>
+                            <option value="pointer">Pointers</option>
+                            <option value="string">String Length</option>
+                            <option value="struct">Structures</option>
+                        </select>
+                        <button class="btn-clear" onclick="clearCode()">🗑️ Clear</button>
+                    </div>
+                </div>
+                <textarea id="code-editor">#include &lt;stdio.h&gt;
+
+int main() {
+    printf("Hello, CSE115 Student!\\n");
+    printf("Welcome to C Programming!\\n");
+    return 0;
+}</textarea>
+            </div>
+
+            <div class="panel">
+                <div class="panel-header">
+                    <span class="panel-title">📥 Input (stdin)</span>
+                </div>
+                <textarea id="input-area" placeholder="Enter input values here (if your program uses scanf)..."></textarea>
+            </div>
+        </div>
+
+        <div class="action-bar">
+            <button id="run-btn" class="btn-run" onclick="runCode()">
+                <span class="btn-icon">▶</span> Run Code
+            </button>
+            <div class="status" id="status">Ready to compile</div>
+        </div>
+
+        <div class="output-container">
+            <div class="panel-header">
+                <span class="panel-title">📤 Output</span>
+                <span id="execution-time" class="exec-time"></span>
+            </div>
+            <div id="output" class="output-area">
+                <span class="placeholder">Your output will appear here...</span>
+            </div>
+        </div>
+    </main>
+
+    <!-- Quick Reference -->
+    <section class="quick-ref">
+        <h3>📚 Quick Reference</h3>
+        <div class="ref-grid">
+            <div class="ref-card">
+                <h4>Format Specifiers</h4>
+                <code>%d</code> - Integer<br>
+                <code>%f</code> - Float<br>
+                <code>%c</code> - Character<br>
+                <code>%s</code> - String
+            </div>
+            <div class="ref-card">
+                <h4>Input/Output</h4>
+                <code>printf()</code> - Print output<br>
+                <code>scanf()</code> - Read input<br>
+                <code>\n</code> - New line
+            </div>
+            <div class="ref-card">
+                <h4>Loops</h4>
+                <code>for(i=0; i&lt;n; i++)</code><br>
+                <code>while(condition)</code><br>
+                <code>do...while()</code>
+            </div>
+            <div class="ref-card">
+                <h4>Arrays</h4>
+                <code>int arr[5];</code><br>
+                <code>arr[0] = 10;</code><br>
+                <code>arr[i]</code> - Access element
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>Made with ❤️ for CSE115 Students | <a href="#" target="_blank">📖 View Tutorial</a></p>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.13/codemirror.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.13/mode/clike/clike.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
