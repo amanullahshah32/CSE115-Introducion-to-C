@@ -4,6 +4,10 @@
 
 > **Quick Reference Tutorial** for CSE115 students - Covers all topics with easy examples and expected outputs!
 
+## 🎮 [▶️ Try C Code Playground - Practice C Online!](https://amanullahshah32.github.io/CSE115-Introducion-to-C/)
+
+[![Practice C Online](https://img.shields.io/badge/🚀_Practice_C-Online_Playground-brightgreen?style=for-the-badge)](https://amanullahshah32.github.io/CSE115-Introducion-to-C/)
+
 ---
 
 ## 📖 Table of Contents
