@@ -1,0 +1,101 @@
+#include <stdio.h>
+
+int main()
+{
+    int a[3][3];
+    int i, j;
+    int diagSum;
+    int borderSum;
+    int rowSum, colSum;
+    int maxRow, maxCol;
+
+    diagSum = 0;
+    borderSum = 0;
+    maxRow = 0;
+    maxCol = 0;
+
+    printf("Enter 3x3 matrix:\n");
+
+    for (i = 0; i < 3; i++)
+    {
+        for (j = 0; j < 3; j++)
+        {
+            scanf("%d", &a[i][j]);
+        }
+    }
+
+    for (i = 0; i < 3; i++)
+    {
+        diagSum = diagSum + a[i][i];
+    }
+
+    for (i = 0; i < 3; i++)
+    {
+        for (j = 0; j < 3; j++)
+        {
+            if (i == 0 || i == 2 || j == 0 || j == 2)
+            {
+                borderSum = borderSum + a[i][j];
+            }
+        }
+    }
+
+    for (i = 0; i < 3; i++)
+    {
+        rowSum = 0;
+
+        for (j = 0; j < 3; j++)
+        {
+            rowSum = rowSum + a[i][j];
+        }
+
+        if (rowSum > maxRow)
+        {
+            maxRow = rowSum;
+        }
+    }
+
+    for (j = 0; j < 3; j++)
+    {
+        colSum = 0;
+
+        for (i = 0; i < 3; i++)
+        {
+            colSum = colSum + a[i][j];
+        }
+
+        if (colSum > maxCol)
+        {
+            maxCol = colSum;
+        }
+    }
+
+    printf("Sum of main diagonal element: %d\n", diagSum);
+    printf("Sum of border element: %d\n", borderSum);
+    printf("Maximum row sum: %d\n", maxRow);
+    printf("Maximum column sum: %d\n", maxCol);
+
+    printf("Upper right triangle:\n");
+
+    for (i = 0; i < 3; i++)
+    {
+        for (j = i; j < 3; j++)
+        {
+            printf("%d ", a[i][j]);
+        }
+        printf("\n");
+    }
+
+    printf("Lower right triangle:\n");
+
+    for (i = 0; i < 3; i++)
+    {
+        for (j = i; j < 3; j++)
+        {
+            printf("%d ", a[j][i]);
+        }
+        printf("\n");
+    }
+
+    return 0;
+}

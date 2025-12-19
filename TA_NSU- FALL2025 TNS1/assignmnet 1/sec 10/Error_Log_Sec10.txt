@@ -1,0 +1,227 @@
+====================================================================================================
+COMPREHENSIVE ERROR LOG - CSE115 Section 10 Assignment 1
+Generated on: 2025-12-16 
+====================================================================================================
+
+====================================================================================================
+SECTION 1: COMPILATION ERRORS (Students whose code failed to compile)
+====================================================================================================
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: adritamiratulferdous (Score: 14/15)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 14:
+   File: adritamiratulferdous_98025_4212586_14.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\adritamiratulferdous_98025_4212586_14.c: In function 'main':
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\adritamiratulferdous_98025_4212586_14.c:31:9: error: expected declaration or statement at end of input
+         printf("Invalid ID");
+         ^~~~~~
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: anhatanjikatabassum (Score: 12/15)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 7:
+   File: anhatanjikatabassum_100437_4211495_2534630042_Q7.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\anhatanjikatabassum_100437_4211495_2534630042_Q7.c: In function 'main':
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\anhatanjikatabassum_100437_4211495_2534630042_Q7.c:27:5: warning: implicit declaration of function 'Printf' [-Wimplicit-function-declaration]
+     Printf("Total number of duplicate element found in array:%d",count);
+     ^~~~~~
+C:\Users\amanu\AppData\Local\Temp\ccy7XYFR.o:anhatanjikatabassum_100437_4211495_2534630042_Q7.c:(.text+0x13e): undefined reference to `Printf'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 9:
+   File: anhatanjikatabassum_100437_4211498_2534630042_Q9.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\anhatanjikatabassum_100437_4211498_2534630042_Q9.c: In function 'arr1Rotate':
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\anhatanjikatabassum_100437_4211498_2534630042_Q9.c:30:9: error: 'i' undeclared (first use in this function)
+     for(i=0;i<n;i++)
+         ^
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\anhatanjikatabassum_100437_4211498_2534630042_Q9.c:30:9: note: each undeclared identifier is reported only once for each function it appears in
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\anhatanjikatabassum_100437_4211498_2534630042_Q9.c:30:15: error: 'n' undeclared (first use in this function)
+     for(i=0;i<n;i++)
+               ^
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\anhatanjikatabassum_100437_4211498_2534630042_Q9.c:32:23: error: 'arr' undeclared (first use in this function)
+         printf("\n%d",arr[i]);
+                       ^~~
+
+📌 Question 11:
+   File: anhatanjikatabassum_100437_4211500_2534630042_Q11.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\anhatanjikatabassum_100437_4211500_2534630042_Q11.c: In function 'main':
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\anhatanjikatabassum_100437_4211500_2534630042_Q11.c:10:37: error: expected expression before '||' token
+         if(str[i]>='A'&&str[i]<='Z')||str[i]>='a'&&str[i]<='z'));
+                                     ^~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\anhatanjikatabassum_100437_4211500_2534630042_Q11.c:10:63: error: expected statement before ')' token
+         if(str[i]>='A'&&str[i]<='Z')||str[i]>='a'&&str[i]<='z'));
+                                                               ^
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\anhatanjikatabassum_100437_4211500_2534630042_Q11.c:10:64: error: expected statement before ')' token
+         if(str[i]>='A'&&str[i]<='Z')||str[i]>='a'&&str[i]<='z'));
+                                                                ^
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: baruaarnob (Score: 13/15)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 13:
+   File: baruaarnob_97467_4197291_Arnob_2531154_q13.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\baruaarnob_97467_4197291_Arnob_2531154_q13.c: In function 'main':
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\baruaarnob_97467_4197291_Arnob_2531154_q13.c:20:5: error: expected declaration or statement at end of input
+     }
+     ^
+
+📌 Question 14:
+   File: baruaarnob_97467_4197292_Arnob_2531154_q14.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\baruaarnob_97467_4197292_Arnob_2531154_q14.c: In function 'main':
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\baruaarnob_97467_4197292_Arnob_2531154_q14.c:10:45: warning: missing terminating " character
+ for(int i=0;i<5;i++)if(s[i].cgpa==mx)printf("%d %s
+                                             ^
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\baruaarnob_97467_4197292_Arnob_2531154_q14.c:10:45: error: missing terminating " character
+ for(int i=0;i<5;i++)if(s[i].cgpa==mx)printf("%d %s
+                                             ^~~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\baruaarnob_97467_4197292_Arnob_2531154_q14.c:11:1: warning: missing terminating " character
+ ",s[i].ID,s[i].fname);
+ ^
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\baruaarnob_97467_4197292_Arnob_2531154_q14.c:11:1: error: missing terminating " character
+ ",s[i].ID,s[i].fname);
+ ^~~~~~~~~~~~~~~~~~~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\baruaarnob_97467_4197292_Arnob_2531154_q14.c:12:1: error: expected expression before 'for'
+ for(int i=0;i<5;i++)if(strcmp(s[i].fname,"John")!=0)printf("%s
+ ^~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\baruaarnob_97467_4197292_Arnob_2531154_q14.c:12:60: warning: missing terminating " character
+ for(int i=0;i<5;i++)if(strcmp(s[i].fname,"John")!=0)printf("%s
+                                                            ^
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\baruaarnob_97467_4197292_Arnob_2531154_q14.c:12:60: error: missing terminating " character
+ for(int i=0;i<5;i++)if(strcmp(s[i].fname,"John")!=0)printf("%s
+                                                            ^~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\baruaarnob_97467_4197292_Arnob_2531154_q14.c:13:1: warning: missing terminating " character
+ ",s[i]
+ ^
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\baruaarnob_97467_4197292_Arnob_2531154_q14.c:13:1: error: missing terminating " character
+ ",s[i]
+ ^~~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\baruaarnob_97467_4197292_Arnob_2531154_q14.c:13:1: error: expected declaration or statement at end of input
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: mimnabelajarin (Score: 14/15)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 2:
+   File: mimnabelajarin_100018_4211782_Nabela-Jarin-Mim- 2534165042-quest-2.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\mimnabelajarin_100018_4211782_Nabela-Jarin-Mim- 2534165042-quest-2.c: In function 'main':
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\mimnabelajarin_100018_4211782_Nabela-Jarin-Mim- 2534165042-quest-2.c:13:31: error: expected expression before ')' token
+         for(i =k;i < n - 1; i+){
+                               ^
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: moniesha (Score: 14/15)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 13:
+   File: moniesha_89746_4212052_question no 13.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: polashsiamshahariya (Score: 14/15)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 15:
+   File: polashsiamshahariya_99231_4211661_SiamShahariya_2532975_Q15-1.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\polashsiamshahariya_99231_4211661_SiamShahariya_2532975_Q15-1.c: In function 'modifystu':
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\polashsiamshahariya_99231_4211661_SiamShahariya_2532975_Q15-1.c:168:5: error: expected declaration or statement at end of input
+     }
+     ^
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: rahmanadnanbin (Score: 14/15)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 12:
+   File: rahmanadnanbin_97816_4210761_Adnan Bin Rahman_2531111042_Task12.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\rahmanadnanbin_97816_4210761_Adnan Bin Rahman_2531111042_Task12.c: In function 'main':
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\rahmanadnanbin_97816_4210761_Adnan Bin Rahman_2531111042_Task12.c:7:5: warning: implicit declaration of function 'printf' [-Wimplicit-function-declaration]
+     printf("Enter first string: ");
+     ^~~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\rahmanadnanbin_97816_4210761_Adnan Bin Rahman_2531111042_Task12.c:7:5: warning: incompatible implicit declaration of built-in function 'printf'
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\rahmanadnanbin_97816_4210761_Adnan Bin Rahman_2531111042_Task12.c:7:5: note: include '<stdio.h>' or provide a declaration of 'printf'
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\rahmanadnanbin_97816_4210761_Adnan Bin Rahman_2531111042_Task12.c:8:5: warning: implicit declaration of function 'fgets' [-Wimplicit-function-declaration]
+     fgets(A, sizeof(A), stdin);
+     ^~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\rahmanadnanbin_97816_4210761_Adnan Bin Rahman_2531111042_Task12.c:8:25: error: 'stdin' undeclared (first use in this function)
+     fgets(A, sizeof(A), stdin);
+                         ^~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\rahmanadnanbin_97816_4210761_Adnan Bin Rahman_2531111042_Task12.c:8:25: note: each undeclared identifier is reported only once for each function it appears in
+
+
+
+====================================================================================================
+SECTION 2: MISSING SUBMISSIONS (Questions not submitted or not found)
+====================================================================================================
+
+raiyankazmir (Score: 14/15):
+   Missing Questions: Q10
+
+sultanaafrin (Score: 13/15):
+   Missing Questions: Q9, Q15
+
+
+====================================================================================================
+SECTION 3: LOW SCORING STUDENTS (Score < 10/15 - Need Review)
+====================================================================================================
+
+✅ All students scored 10 or above.
+
+
+====================================================================================================
+SECTION 6: COMPLETE GRADE SUMMARY
+====================================================================================================
+
+Student Name                             | Score | Status
+------------------------------------------------------------
+aaqibaarhaam                             |    15 | ✅ PASS
+adritamiratulferdous                     |    14 | ⚠️ PARTIAL
+ahmedriaz                                |    15 | ✅ PASS
+altasnimjareenvi                         |    15 | ✅ PASS
+anhatanjikatabassum                      |    12 | ⚠️ PARTIAL
+arnobadnansami                           |    15 | ✅ PASS
+baruaarnob                               |    13 | ⚠️ PARTIAL
+chowdhurynayeerabrar                     |    15 | ✅ PASS
+haquekazimdtahsinul                      |    15 | ✅ PASS
+haquemuhammadraihanul                    |    15 | ✅ PASS
+islammohammadmontakimul                  |    15 | ✅ PASS
+islammonaorul                            |    15 | ✅ PASS
+jannatjadid                              |    15 | ✅ PASS
+kadermdabdul                             |    15 | ✅ PASS
+mahmudadnan                              |    15 | ✅ PASS
+mahzabintahia                            |    15 | ✅ PASS
+maruf                                    |    15 | ✅ PASS
+mimnabelajarin                           |    14 | ⚠️ PARTIAL
+moniesha                                 |    14 | ⚠️ PARTIAL
+nehanusratarovi                          |    15 | ✅ PASS
+omar                                     |    15 | ✅ PASS
+polashsiamshahariya                      |    14 | ⚠️ PARTIAL
+rahmanadnanbin                           |    14 | ⚠️ PARTIAL
+rahmantamanna                            |    15 | ✅ PASS
+raisanoshintabassum                      |    15 | ✅ PASS
+raiyankazmir                             |    14 | ⚠️ PARTIAL
+samarrayhanbinmahmood                    |    15 | ✅ PASS
+sarkerorindom                            |    15 | ✅ PASS
+sultanaafrin                             |    13 | ⚠️ PARTIAL
+tasinmdmahadihasan                       |    15 | ✅ PASS
+zamirjawharabint                         |    15 | ✅ PASS

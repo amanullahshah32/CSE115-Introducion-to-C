@@ -1,0 +1,298 @@
+====================================================================================================
+COMPREHENSIVE ERROR LOG - CSE115 Section 11 Assignment 1
+Generated on: 2025-12-16 11:34:12
+====================================================================================================
+
+====================================================================================================
+SECTION 1: COMPILATION ERRORS (Students whose code failed to compile)
+====================================================================================================
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: arafsmhassinarman (Score: 0/15)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 1:
+   File: arafsmhassinarman_77467_4207066_main.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: hridoymdnasimuddin (Score: 0/15)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 1:
+   File: hridoymdnasimuddin_51001_4210625_main-1.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: mdjobaedhasan (Score: 14/15)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 15:
+   File: mdjobaedhasan_45792_4211910_Assighnment15.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\mdjobaedhasan_45792_4211910_Assighnment15.c: In function 'insertStudent':
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\mdjobaedhasan_45792_4211910_Assighnment15.c:178:1: error: expected declaration or statement at end of input
+ }
+ ^
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: noorsajidahfaizun (Score: 12/15)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 13:
+   File: noorsajidahfaizun_51319_4212607_main-c9b4375c-c2eb-4014-8ff1-ea0a996c061e.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\noorsajidahfaizun_51319_4212607_main-c9b4375c-c2eb-4014-8ff1-ea0a996c061e.c:80:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'void'
+ void modifyStudentByID(struct Student students[], int n, int id)
+ ^~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\noorsajidahfaizun_51319_4212607_main-c9b4375c-c2eb-4014-8ff1-ea0a996c061e.c: In function 'main':
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\noorsajidahfaizun_51319_4212607_main-c9b4375c-c2eb-4014-8ff1-ea0a996c061e.c:174:13: warning: implicit declaration of function 'modifyStudentByID' [-Wimplicit-function-declaration]
+             modifyStudentByID(students, n, id);
+             ^~~~~~~~~~~~~~~~~
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: rafiulhasanrifat (Score: 5/15)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 5:
+   File: rafiulhasanrifat_45824_4207705_ans5.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 6:
+   File: rafiulhasanrifat_45824_4207706_ans6.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 7:
+   File: rafiulhasanrifat_45824_4207707_ans7.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 9:
+   File: rafiulhasanrifat_45824_4207709_ans9.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 10:
+   File: rafiulhasanrifat_45824_4207710_ans10.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 11:
+   File: rafiulhasanrifat_45824_4207711_ans11.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 12:
+   File: rafiulhasanrifat_45824_4207712_ans12.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 13:
+   File: rafiulhasanrifat_45824_4207713_ans13.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 14:
+   File: rafiulhasanrifat_45824_4207714_ans14.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 15:
+   File: rafiulhasanrifat_45824_4207715_ans15.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: zamanrifatbin (Score: 12/15)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 11:
+   File: zamanrifatbin_98356_4210599_main-53e451dc-aa31-48ff-abe8-092cc4efc2a0.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\zamanrifatbin_98356_4210599_main-53e451dc-aa31-48ff-abe8-092cc4efc2a0.c:43:1: error: expected identifier or '(' before '}' token
+ }
+ ^
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\zamanrifatbin_98356_4210599_main-53e451dc-aa31-48ff-abe8-092cc4efc2a0.c:56:1: error: expected identifier or '(' before '}' token
+ }
+ ^
+
+📌 Question 12:
+   File: zamanrifatbin_98356_4210600_main-65190eeb-bbbc-4187-a1ac-1050c6e63613.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\zamanrifatbin_98356_4210600_main-65190eeb-bbbc-4187-a1ac-1050c6e63613.c:38:1: error: expected identifier or '(' before '}' token
+ }
+ ^
+
+📌 Question 13:
+   File: zamanrifatbin_98356_4210601_main-b068a0f3-53dc-4667-9a4e-153212a4c205.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\zamanrifatbin_98356_4210601_main-b068a0f3-53dc-4667-9a4e-153212a4c205.c: In function 'main':
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\zamanrifatbin_98356_4210601_main-b068a0f3-53dc-4667-9a4e-153212a4c205.c:67:13: warning: implicit declaration of function 'strcmp' [-Wimplicit-function-declaration]
+         if (strcmp(stlist[i].fname, "John") != 0)
+             ^~~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\zamanrifatbin_98356_4210601_main-b068a0f3-53dc-4667-9a4e-153212a4c205.c: In function 'main':
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 1\submitted files\zamanrifatbin_98356_4210601_main-b068a0f3-53dc-4667-9a4e-153212a4c205.c:72:1: error: expected declaration or statement at end of input
+ }
+ ^
+
+
+
+====================================================================================================
+SECTION 2: MISSING SUBMISSIONS (Questions not submitted or not found)
+====================================================================================================
+
+arafsmhassinarman (Score: 0/15):
+   Missing Questions: Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q10, Q11, Q12, Q13, Q14, Q15
+
+darpanziaulhasankhan (Score: 13/15):
+   Missing Questions: Q14, Q15
+
+hridoymdnasimuddin (Score: 0/15):
+   Missing Questions: Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q10, Q11, Q12, Q13, Q14, Q15
+
+letheantaralabiba (Score: 13/15):
+   Missing Questions: Q14, Q15
+
+mahmudmdimtiaz (Score: 14/15):
+   Missing Questions: Q9
+
+monsurmaisha (Score: 12/15):
+   Missing Questions: Q13, Q14, Q15
+
+noorsajidahfaizun (Score: 12/15):
+   Missing Questions: Q14, Q15
+
+rahmanehsanur (Score: 12/15):
+   Missing Questions: Q13, Q14, Q15
+
+rahmanjiyadur (Score: 14/15):
+   Missing Questions: Q15
+
+rohanrajibchowdhury (Score: 9/15):
+   Missing Questions: Q10, Q11, Q12, Q13, Q14, Q15
+
+smsaif (Score: 11/15):
+   Missing Questions: Q12, Q13, Q14, Q15
+
+sondhimdmehedihasan (Score: 14/15):
+   Missing Questions: Q15
+
+
+====================================================================================================
+SECTION 3: LOW SCORING STUDENTS (Score < 10/15 - Need Review)
+====================================================================================================
+
+hridoymdnasimuddin: 0/15
+   Failed Questions: Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q10, Q11, Q12, Q13, Q14, Q15
+   Compilation Errors:
+      Q1: Compilation failed
+   Not Submitted: Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q10, Q11, Q12, Q13, Q14, Q15
+
+arafsmhassinarman: 0/15
+   Failed Questions: Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q10, Q11, Q12, Q13, Q14, Q15
+   Compilation Errors:
+      Q1: Compilation failed
+   Not Submitted: Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q10, Q11, Q12, Q13, Q14, Q15
+
+rafiulhasanrifat: 5/15
+   Failed Questions: Q5, Q6, Q7, Q9, Q10, Q11, Q12, Q13, Q14, Q15
+   Compilation Errors:
+      Q5: Compilation failed
+      Q6: Compilation failed
+      Q7: Compilation failed
+      Q9: Compilation failed
+      Q10: Compilation failed
+      Q11: Compilation failed
+      Q12: Compilation failed
+      Q13: Compilation failed
+      Q14: Compilation failed
+      Q15: Compilation failed
+
+rohanrajibchowdhury: 9/15
+   Failed Questions: Q10, Q11, Q12, Q13, Q14, Q15
+   Not Submitted: Q10, Q11, Q12, Q13, Q14, Q15
+
+
+====================================================================================================
+SECTION 5: DUPLICATE SUBMISSIONS (Skipped - kept first submission)
+====================================================================================================
+  - darpanziaulhasankhan Q2: darpanziaulhasankhan_22001_4211376_main-2bbe55a9-3ee6-45b0-b51a-49ca92482e34.c
+  - darpanziaulhasankhan Q2: darpanziaulhasankhan_22001_4211379_main-2a2ab330-5db6-4238-a4a8-20490bf63674.c
+  - letheantaralabiba Q7: letheantaralabiba_77718_4212032_main-7a72e7e1-b834-43b8-b38f-c0e8ac790075.c
+  - monsurmaisha Q5: monsurmaisha_77065_4210900_main-5e057145-9ab3-45f2-8e5c-2bf8e454adf1.c
+  - monsurmaisha Q7: monsurmaisha_77065_4210903_main-7b7a7cda-be89-4bf2-a714-5f6c42f74aa2.c
+  - monsurmaisha Q6: monsurmaisha_77065_4210906_main-6a8a184a-9ed8-4c23-a94e-0730056952e6.c
+  - noorsajidahfaizun Q5: noorsajidahfaizun_51319_4212601_main-5fd71ce7-3b4c-4757-8f96-ec8502a8271e.c
+  - rahmanehsanur Q2: rahmanehsanur_76357_4212539_main-02cf78f0-9a7f-4691-b6c3-d287cd90d383.c
+  - rahmanjiyadur Q4: rahmanjiyadur_78630_4212303_main-4f40ea08-e5c1-456d-8c50-7b40dc355ec9.c
+  - smsaif Q2: smsaif_45864_4212365_main-2f78b621-90fa-4179-b4e1-94cc9eecc0fa.c
+  - smsaif Q3: smsaif_45864_4212366_main-3aa0a3f6-4322-49a8-bd6b-0f4984c818c8.c
+  - smsaif Q4: smsaif_45864_4212367_main-4bab9fd9-344f-4871-bfa2-9fa64f7f65c8.c
+  - smsaif Q1: smsaif_45864_4212371_main-01a12d3d-c5c5-42ab-90a4-63d884007eaf.c
+
+
+====================================================================================================
+SECTION 6: COMPLETE GRADE SUMMARY
+====================================================================================================
+
+Student Name                             | Score | Status
+------------------------------------------------------------
+arafsmhassinarman                        |     0 | ❌ NEEDS REVIEW
+asifsadmanmd                             |    15 | ✅ PASS
+bhuiyanmahtabuddinahmed                  |    15 | ✅ PASS
+chowdhurylamisaazad                      |    15 | ✅ PASS
+darpanziaulhasankhan                     |    13 | ⚠️ PARTIAL
+durjoychowdhury                          |    15 | ✅ PASS
+eliasishmam                              |    15 | ✅ PASS
+eshatamannachowdhury                     |    15 | ✅ PASS
+fihasajutisharmeen                       |    15 | ✅ PASS
+hridoymdnasimuddin                       |     0 | ❌ NEEDS REVIEW
+islamhasibul                             |    15 | ✅ PASS
+islammowmita                             |    15 | ✅ PASS
+letheantaralabiba                        |    13 | ⚠️ PARTIAL
+lubabaahmed                              |    15 | ✅ PASS
+mahbubaumme                              |    15 | ✅ PASS
+mahmudmdimtiaz                           |    14 | ⚠️ PARTIAL
+mainurtamanna                            |    15 | ✅ PASS
+mdjamiulalamjamil                        |    15 | ✅ PASS
+mdjobaedhasan                            |    14 | ⚠️ PARTIAL
+monsurmaisha                             |    12 | ⚠️ PARTIAL
+newazredwan                              |    15 | ✅ PASS
+nirzonmdshafiqrahman                     |    15 | ✅ PASS
+noorsajidahfaizun                        |    12 | ⚠️ PARTIAL
+raeenmdrizuanalmasud                     |    15 | ✅ PASS
+rafasyedanafisanayer                     |    15 | ✅ PASS
+rafiulhasanrifat                         |     5 | ❌ NEEDS REVIEW
+rahmanehsanur                            |    12 | ⚠️ PARTIAL
+rahmanjiyadur                            |    14 | ⚠️ PARTIAL
+rahmansajid                              |    15 | ✅ PASS
+rohanrajibchowdhury                      |     9 | ❌ NEEDS REVIEW
+sarkermdarebi                            |    15 | ✅ PASS
+smsaif                                   |    11 | ⚠️ PARTIAL
+somualimahamud                           |    15 | ✅ PASS
+sondhimdmehedihasan                      |    14 | ⚠️ PARTIAL
+talebakmsaad                             |    15 | ✅ PASS
+tonnysanzanaafrin                        |    15 | ✅ PASS
+udaymdsabbirhosen                        |    15 | ✅ PASS
+zamanrifatbin                            |    12 | ⚠️ PARTIAL

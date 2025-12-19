@@ -1,0 +1,23 @@
+#include <stdio.h>
+
+void RevArr(int arr[], int size) {
+    int start = 0, end = size - 1, temp;
+    while (start < end) {
+        temp = arr[start];
+        arr[start] = arr[end];
+        arr[end] = temp;
+        start++;
+        end--;
+    }
+}
+
+int main() {
+    int arr[] = {1, 2, 3, 4, 5};
+    int n = 5;
+
+    RevArr(arr, n);
+
+    printf("Reversed array: ");
+    for(int i=0; i<n; i++) printf("%d ", arr[i]);
+    return 0;
+}

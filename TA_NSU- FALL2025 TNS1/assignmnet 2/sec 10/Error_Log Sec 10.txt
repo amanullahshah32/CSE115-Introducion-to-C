@@ -1,0 +1,419 @@
+====================================================================================================
+CSE115 Section 10 - Assignment 2 - COMPILATION ERROR LOG
+Generated: 2025-12-18 00:48:54
+Grading: 6 questions × 2.5 marks = 15.0 total
+====================================================================================================
+
+====================================================================================================
+SECTION 1: COMPILATION ERRORS
+====================================================================================================
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: anhatanjikatabassum (Score: 12.5/15.0)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 3:
+   File: anhatanjikatabassum_100437_4242305_Anha_2534630042_Q3.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\anhatanjikatabassum_100437_4242305_Anha_2534630042_Q3.c: In function 'main':
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\anhatanjikatabassum_100437_4242305_Anha_2534630042_Q3.c:14:7: warning: implicit declaration of function 'findlength_arr' [-Wimplicit-function-declaration]
+     k=findlength_arr(str);
+       ^~~~~~~~~~~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\anhatanjikatabassum_100437_4242305_Anha_2534630042_Q3.c:15:7: warning: implicit declaration of function 'findlength_ptr' [-Wimplicit-function-declaration]
+     l=findlength_ptr(str);
+       ^~~~~~~~~~~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\anhatanjikatabassum_100437_4242305_Anha_2534630042_Q3.c: In function 'findinglength_pointer':
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\anhatanjikatabassum_100437_4242305_Anha_2534630042_Q3.c:39:9: error: 'count' undeclared (first use in this function)
+         count++;
+         ^~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\anhatanjikatabassum_100437_4242305_Anha_2534630042_Q3.c:39:9: note: each undeclared identifier is reported only once for each function it appears in
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: hasansyedragibali (Score: 10.0/15.0)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 3:
+   File: hasansyedragibali_100657_4243876_syedragibalihasan_2534676642_q3.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\hasansyedragibali_100657_4243876_syedragibalihasan_2534676642_q3.c:11:5: error: redefinition of 'findlength'
+ int findlength(char *s){
+     ^~~~~~~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\hasansyedragibali_100657_4243876_syedragibalihasan_2534676642_q3.c:3:5: note: previous definition of 'findlength' was here
+ int findlength(char s[]){
+     ^~~~~~~~~~
+
+📌 Question 4:
+   File: hasansyedragibali_100657_4243877_syedragibalihasan_2534676642_q4.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\hasansyedragibali_100657_4243877_syedragibalihasan_2534676642_q4.c:11:6: error: redefinition of 'rev_arr'
+ void rev_arr(int arr1[], int rev_arr1[], int size)
+      ^~~~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\hasansyedragibali_100657_4243877_syedragibalihasan_2534676642_q4.c:3:6: note: previous definition of 'rev_arr' was here
+ void rev_arr(int *arr1, int *rev_arr1, int size)
+      ^~~~~~~
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: jannatjadid (Score: 10.0/15.0)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 3:
+   File: jannatjadid_99878_4239417_submit_3.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\jannatjadid_99878_4239417_submit_3.c:27:5: error: redefinition of 'findlength'
+ int findlength(char *p)
+     ^~~~~~~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\jannatjadid_99878_4239417_submit_3.c:2:5: note: previous definition of 'findlength' was here
+ int findlength(char s[])
+     ^~~~~~~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\jannatjadid_99878_4239417_submit_3.c:37:5: error: redefinition of 'main'
+ int main()
+     ^~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\jannatjadid_99878_4239417_submit_3.c:12:5: note: previous definition of 'main' was here
+ int main()
+     ^~~~
+
+📌 Question 4:
+   File: jannatjadid_99878_4239426_submit_4-2.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\jannatjadid_99878_4239426_submit_4-2.c:36:6: error: redefinition of 'rev_arr'
+ void rev_arr(int *arr, int *rev_arr1, int size)
+      ^~~~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\jannatjadid_99878_4239426_submit_4-2.c:2:6: note: previous definition of 'rev_arr' was here
+ void rev_arr(int arr[], int rev_arr1[], int size)
+      ^~~~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\jannatjadid_99878_4239426_submit_4-2.c:51:5: error: redefinition of 'main'
+ int main()
+     ^~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\jannatjadid_99878_4239426_submit_4-2.c:17:5: note: previous definition of 'main' was here
+ int main()
+     ^~~~
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: zamirjawharabint (Score: 12.5/15.0)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 6:
+   File: zamirjawharabint_99908_4243287_Jawhara_2534493642_Assignment2_Q6.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamirjawharabint_99908_4243287_Jawhara_2534493642_Assignment2_Q6.c: In function 'main':
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamirjawharabint_99908_4243287_Jawhara_2534493642_Assignment2_Q6.c:27:5: error: a label can only be part of a statement and a declaration is not a statement
+     FILE *f= fopen("book_info.text", "w");
+     ^~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamirjawharabint_99908_4243287_Jawhara_2534493642_Assignment2_Q6.c:59:37: error: '(struct book_info *)&b' is a pointer; did you mean to use '->'?
+      fscanf(f," %s %s %d %d %d ", &b.book_name, &b.author_name, &b.id, &b.publication_year, &b.present_price);
+                                     ^
+                                     ->
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamirjawharabint_99908_4243287_Jawhara_2534493642_Assignment2_Q6.c:59:51: error: '(struct book_info *)&b' is a pointer; did you mean to use '->'?
+      fscanf(f," %s %s %d %d %d ", &b.book_name, &b.author_name, &b.id, &b.publication_year, &b.present_price);
+                                                   ^
+                                                   ->
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamirjawharabint_99908_4243287_Jawhara_2534493642_Assignment2_Q6.c:59:67: error: '(struct book_info *)&b' is a pointer; did you mean to use '->'?
+      fscanf(f," %s %s %d %d %d ", &b.book_name, &b.author_name, &b.id, &b.publication_year, &b.present_price);
+                                                                   ^
+                                                                   ->
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamirjawharabint_99908_4243287_Jawhara_2534493642_Assignment2_Q6.c:59:74: error: '(struct book_info *)&b' is a pointer; did you mean to use '->'?
+      fscanf(f," %s %s %d %d %d ", &b.book_name, &b.author_name, &b.id, &b.publication_year, &b.present_price);
+                                                                          ^
+                                                                          ->
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamirjawharabint_99908_4243287_Jawhara_2534493642_Assignment2_Q6.c:59:95: error: '(struct book_info *)&b' is a pointer; did you mean to use '->'?
+      fscanf(f," %s %s %d %d %d ", &b.book_name, &b.author_name, &b.id, &b.publication_year, &b.present_price);
+                                                                                               ^
+                                                                                               ->
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamirjawharabint_99908_4243287_Jawhara_2534493642_Assignment2_Q6.c:61:46: error: '(struct book_info *)&b' is a pointer; did you mean to use '->'?
+     printf("The Books are: %s %s %d %d %d ",b.book_name, b.author_name, b.id, b.publication_year, b.present_price);
+                                              ^
+                                              ->
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamirjawharabint_99908_4243287_Jawhara_2534493642_Assignment2_Q6.c:61:59: error: '(struct book_info *)&b' is a pointer; did you mean to use '->'?
+     printf("The Books are: %s %s %d %d %d ",b.book_name, b.author_name, b.id, b.publication_year, b.present_price);
+                                                           ^
+                                                           ->
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamirjawharabint_99908_4243287_Jawhara_2534493642_Assignment2_Q6.c:61:74: error: '(struct book_info *)&b' is a pointer; did you mean to use '->'?
+     printf("The Books are: %s %s %d %d %d ",b.book_name, b.author_name, b.id, b.publication_year, b.present_price);
+                                                                          ^
+                                                                          ->
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamirjawharabint_99908_4243287_Jawhara_2534493642_Assignment2_Q6.c:61:80: error: '(struct book_info *)&b' is a pointer; did you mean to use '->'?
+     printf("The Books are: %s %s %d %d %d ",b.book_name, b.author_name, b.id, b.publication_year, b.present_price);
+                                                                                ^
+                                                                                ->
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamirjawharabint_99908_4243287_Jawhara_2534493642_Assignment2_Q6.c:61:100: error: '(struct book_info *)&b' is a pointer; did you mean to use '->'?
+     printf("The Books are: %s %s %d %d %d ",b.book_name, b.author_name, b.id, b.publication_year, b.present_price);
+                                                                                                    ^
+                                                                                                    ->
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamirjawharabint_99908_4243287_Jawhara_2534493642_Assignment2_Q6.c:72:46: error: '(struct book_info *)&b' is a pointer; did you mean to use '->'?
+     printf("The Books are: %s %s %d %d %d ",b.book_name, b.author_name, b.id, b.publication_year, b.present_price);
+                                              ^
+                                              ->
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamirjawharabint_99908_4243287_Jawhara_2534493642_Assignment2_Q6.c:72:59: error: '(struct book_info *)&b' is a pointer; did you mean to use '->'?
+     printf("The Books are: %s %s %d %d %d ",b.book_name, b.author_name, b.id, b.publication_year, b.present_price);
+                                                           ^
+                                                           ->
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamirjawharabint_99908_4243287_Jawhara_2534493642_Assignment2_Q6.c:72:74: error: '(struct book_info *)&b' is a pointer; did you mean to use '->'?
+     printf("The Books are: %s %s %d %d %d ",b.book_name, b.author_name, b.id, b.publication_year, b.present_price);
+                                                                          ^
+                                                                          ->
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamirjawharabint_99908_4243287_Jawhara_2534493642_Assignment2_Q6.c:72:80: error: '(struct book_info *)&b' is a pointer; did you mean to use '->'?
+     printf("The Books are: %s %s %d %d %d ",b.book_name, b.author_name, b.id, b.publication_year, b.present_price);
+                                                                                ^
+                                                                                ->
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamirjawharabint_99908_4243287_Jawhara_2534493642_Assignment2_Q6.c:72:100: error: '(struct book_info *)&b' is a pointer; did you mean to use '->'?
+     printf("The Books are: %s %s %d %d %d ",b.book_name, b.author_name, b.id, b.publication_year, b.present_price);
+                                                                                                    ^
+                                                                                                    ->
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamirjawharabint_99908_4243287_Jawhara_2534493642_Assignment2_Q6.c:79:13: error: '(struct book_info *)&b' is a pointer; did you mean to use '->'?
+  if(strcmp(b.author_Name,name_Author)==0){
+             ^
+             ->
+
+
+====================================================================================================
+SECTION 3: SUBMISSION SUMMARY BY STUDENT
+====================================================================================================
+
+
+aaqibaarhaam (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [a, b]
+   Q4: ✅ 2.5 marks - Parts: [a, b]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+adritamiratulferdous (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+ahemdtazin (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+ahmedriaz (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [a, b]
+   Q4: ✅ 2.5 marks - Parts: [a, b]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+altasnimjareenvi (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+anhatanjikatabassum (Score: 12.5/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ❌ 0.0 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+arnobadnansami (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+baruaarnob (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+chowdhurynayeerabrar (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+haquekazimdtahsinul (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [b, a]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+hasansyedragibali (Score: 10.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ❌ 0.0 marks - Parts: [main]
+   Q4: ❌ 0.0 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+hossainkhandakerzahin (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [b, a]
+   Q4: ✅ 2.5 marks - Parts: [b, a]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+islammohammadmontakimul (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [a, b]
+   Q4: ✅ 2.5 marks - Parts: [a, b]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+islammonaorul (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+jannatjadid (Score: 10.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ❌ 0.0 marks - Parts: [main]
+   Q4: ❌ 0.0 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+kadermdabdul (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main, b]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+mahmudadnan (Score: 2.5/15.0):
+   Q1: ⚠️  Not submitted
+   Q2: ⚠️  Not submitted
+   Q3: ⚠️  Not submitted
+   Q4: ⚠️  Not submitted
+   Q5: ⚠️  Not submitted
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+mahzabintahia (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+maruf (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [b, a]
+   Q4: ✅ 2.5 marks - Parts: [b, a]
+   Q5: ✅ 2.5 marks - Parts: [c, a, b, d, f, e]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+mimnabelajarin (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+moniesha (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [b, a]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+nehanusratarovi (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+polashsiamshahariya (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [a, b]
+   Q4: ✅ 2.5 marks - Parts: [a, b]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+protikmirbayazid (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+rahmanadnanbin (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+rahmantamanna (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main, r, c]
+
+raisanoshintabassum (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main, main]
+
+sultanaafrin (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+sultanmdsoaib (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main, b, c]
+
+tasinmdmahadihasan (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [a, b]
+   Q4: ✅ 2.5 marks - Parts: [a, b]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [a, b, c, d, e]
+
+zamirjawharabint (Score: 12.5/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ❌ 0.0 marks - Parts: [main]

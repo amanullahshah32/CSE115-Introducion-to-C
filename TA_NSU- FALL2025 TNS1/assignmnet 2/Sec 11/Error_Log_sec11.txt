@@ -1,0 +1,726 @@
+====================================================================================================
+CSE115 Section 11 - Assignment 2 - COMPILATION ERROR LOG
+Generated: 2025-12-18 01:14:46
+Grading: 6 questions × 2.5 marks = 15.0 total
+====================================================================================================
+
+====================================================================================================
+SECTION 1: COMPILATION ERRORS
+====================================================================================================
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: arafsmhassinarman (Score: 0.0/15.0)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 1:
+   File: arafsmhassinarman_77467_4242747_main-1.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: darpanziaulhasankhan (Score: 0.0/15.0)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 1 [Auto-assigned from UUID]:
+   File: darpanziaulhasankhan_22001_4242471_main-f80f475a-f04e-4770-8891-960506338a5f.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 2 [Auto-assigned from UUID]:
+   File: darpanziaulhasankhan_22001_4242473_main-db82e259-7c37-4b19-859d-8fa715709937.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 3 [Auto-assigned from UUID]:
+   File: darpanziaulhasankhan_22001_4242475_main-dabe8f25-4b53-47b3-b25d-e94eb8ea2774.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 4 [Auto-assigned from UUID]:
+   File: darpanziaulhasankhan_22001_4242476_main-ad1cc03e-e619-45ce-b136-c23651ef0d43.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 5 [Auto-assigned from UUID]:
+   File: darpanziaulhasankhan_22001_4242479_main-2a184a45-a570-4662-8e57-85843b3f85a5.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 6 [Auto-assigned from UUID]:
+   File: darpanziaulhasankhan_22001_4242480_main-c3f9b7d1-679a-41f3-9bb3-98cc52a49357.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: hridoymdnasimuddin (Score: 0.0/15.0)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 2:
+   File: hridoymdnasimuddin_51001_4242907_main-2.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: islammowmita (Score: 10.0/15.0)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 3(a):
+   File: islammowmita_16684_4238981_Assignment 3-a.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 3(b):
+   File: islammowmita_16684_4238980_Assignment 3b.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 4(a):
+   File: islammowmita_16684_4238976_Assignment 4-a.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 4(b):
+   File: islammowmita_16684_4238983_Assignment 4-b.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: mainurtamanna (Score: 12.5/15.0)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 5 [Auto-assigned from UUID]:
+   File: mainurtamanna_88217_4243833_main-5f427aff-3303-4d1f-a617-cbf592a01e0f.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\mainurtamanna_88217_4243833_main-5f427aff-3303-4d1f-a617-cbf592a01e0f.c:3:17: fatal error: string: No such file or directory
+ #include<string>
+                 ^
+compilation terminated.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: mdjobaedhasan (Score: 10.0/15.0)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 3:
+   File: mdjobaedhasan_45792_4238471_Assighnment2.3.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\mdjobaedhasan_45792_4238471_Assighnment2.3.c: In function 'findlength':
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\mdjobaedhasan_45792_4238471_Assighnment2.3.c:9:19: error: 'a' undeclared (first use in this function)
+             while(a[i] != '\0')
+                   ^
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\mdjobaedhasan_45792_4238471_Assighnment2.3.c:9:19: note: each undeclared identifier is reported only once for each function it appears in
+
+📌 Question 4:
+   File: mdjobaedhasan_45792_4238477_Assighnment2.4.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\mdjobaedhasan_45792_4238477_Assighnment2.4.c: In function 'main':
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\mdjobaedhasan_45792_4238477_Assighnment2.4.c:16:14: error: redeclaration of 'i' with no linkage
+         int  i;
+              ^
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\mdjobaedhasan_45792_4238477_Assighnment2.4.c:15:19: note: previous declaration of 'i' was here
+         int q[5], i;
+                   ^
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: rafasyedanafisanayer (Score: 10.0/15.0)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 2:
+   File: rafasyedanafisanayer_16962_4243169_assignmnet2_2.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\rafasyedanafisanayer_16962_4243169_assignmnet2_2.c:27:12: error: expected declaration specifiers or '...' before string constant
+     printf("Array in ascending order:\n");
+            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\rafasyedanafisanayer_16962_4243169_assignmnet2_2.c:28:5: error: expected identifier or '(' before 'for'
+     for(int i = 0; i < n; i++) {
+     ^~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\rafasyedanafisanayer_16962_4243169_assignmnet2_2.c:28:22: error: expected '=', ',', ';', 'asm' or '__attribute__' before '<' token
+     for(int i = 0; i < n; i++) {
+                      ^
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\rafasyedanafisanayer_16962_4243169_assignmnet2_2.c:28:28: error: expected '=', ',', ';', 'asm' or '__attribute__' before '++' token
+     for(int i = 0; i < n; i++) {
+                            ^~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\rafasyedanafisanayer_16962_4243169_assignmnet2_2.c:32:5: error: expected identifier or '(' before 'return'
+     return 0;
+     ^~~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\rafasyedanafisanayer_16962_4243169_assignmnet2_2.c:33:1: error: expected identifier or '(' before '}' token
+ }
+ ^
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: rafiulhasanrifat (Score: 10.0/15.0)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 5(a):
+   File: rafiulhasanrifat_45824_4236955_5a.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 5(b):
+   File: rafiulhasanrifat_45824_4236956_5b.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 5(c):
+   File: rafiulhasanrifat_45824_4236958_5c.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 5(d):
+   File: rafiulhasanrifat_45824_4236959_5d.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 5(e):
+   File: rafiulhasanrifat_45824_4236960_5e.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 5(f):
+   File: rafiulhasanrifat_45824_4236961_5f.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 6(a):
+   File: rafiulhasanrifat_45824_4236962_6a.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 6(b):
+   File: rafiulhasanrifat_45824_4236964_6b.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 6(c):
+   File: rafiulhasanrifat_45824_4236965_6c.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 6(d):
+   File: rafiulhasanrifat_45824_4236966_6d.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+📌 Question 6(e):
+   File: rafiulhasanrifat_45824_4236967_6e.c
+------------------------------------------------------------
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: rahmanehsanur (Score: 12.5/15.0)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 6 [Auto-assigned from UUID]:
+   File: rahmanehsanur_76357_4242757_main-be000daf-491b-41f5-8b08-2969cd7b7822.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\rahmanehsanur_76357_4242757_main-be000daf-491b-41f5-8b08-2969cd7b7822.c: In function 'main':
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\rahmanehsanur_76357_4242757_main-be000daf-491b-41f5-8b08-2969cd7b7822.c:64:23: warning: implicit declaration of function 'strcspn' [-Wimplicit-function-declaration]
+         books[i].name[strcspn(books[i].name, "\n")] = 0;
+                       ^~~~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\rahmanehsanur_76357_4242757_main-be000daf-491b-41f5-8b08-2969cd7b7822.c:64:23: warning: incompatible implicit declaration of built-in function 'strcspn'
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\rahmanehsanur_76357_4242757_main-be000daf-491b-41f5-8b08-2969cd7b7822.c:64:23: note: include '<string.h>' or provide a declaration of 'strcspn'
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\rahmanehsanur_76357_4242757_main-be000daf-491b-41f5-8b08-2969cd7b7822.c:81:12: warning: implicit declaration of function 'strcmp' [-Wimplicit-function-declaration]
+         if(strcmp(books[i].author, "Charles Dickens") == 0)
+            ^~~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\rahmanehsanur_76357_4242757_main-be000daf-491b-41f5-8b08-2969cd7b7822.c:94:21: error: 'fn' undeclared (first use in this function)
+             fprintf(fn"%s\n", books[i].name);
+                     ^~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\rahmanehsanur_76357_4242757_main-be000daf-491b-41f5-8b08-2969cd7b7822.c:94:21: note: each undeclared identifier is reported only once for each function it appears in
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\rahmanehsanur_76357_4242757_main-be000daf-491b-41f5-8b08-2969cd7b7822.c:94:23: error: expected ')' before string constant
+             fprintf(fn"%s\n", books[i].name);
+                       ^~~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\rahmanehsanur_76357_4242757_main-be000daf-491b-41f5-8b08-2969cd7b7822.c:94:13: error: too few arguments to function 'fprintf'
+             fprintf(fn"%s\n", books[i].name);
+             ^~~~~~~
+In file included from C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\rahmanehsanur_76357_4242757_main-be000daf-491b-41f5-8b08-2969cd7b7822.c:1:0:
+c:\mingw\include\stdio.h:453:38: note: declared here
+ _CRTIMP __cdecl __MINGW_NOTHROW  int fprintf (FILE *, const char *, ...);
+                                      ^~~~~~~
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: sarkermdarebi (Score: 10.0/15.0)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 3:
+   File: sarkermdarebi_36883_4243684_problem03.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\sarkermdarebi_36883_4243684_problem03.c:22:5: error: redefinition of 'findlength'
+ int findlength(char *s) {
+     ^~~~~~~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\sarkermdarebi_36883_4243684_problem03.c:4:5: note: previous definition of 'findlength' was here
+ int findlength(char s[]) {
+     ^~~~~~~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\sarkermdarebi_36883_4243684_problem03.c:31:5: error: redefinition of 'main'
+ int main() {
+     ^~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\sarkermdarebi_36883_4243684_problem03.c:12:5: note: previous definition of 'main' was here
+ int main() {
+     ^~~~
+
+📌 Question 4:
+   File: sarkermdarebi_36883_4243692_problem04.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\sarkermdarebi_36883_4243692_problem04.c:31:6: error: redefinition of 'rev_arr'
+ void rev_arr(int *arr1, int *rev_arr1, int size) {
+      ^~~~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\sarkermdarebi_36883_4243692_problem04.c:4:6: note: previous definition of 'rev_arr' was here
+ void rev_arr(int arr1[], int rev_arr1[], int size) {
+      ^~~~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\sarkermdarebi_36883_4243692_problem04.c:37:5: error: redefinition of 'main'
+ int main() {
+     ^~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\sarkermdarebi_36883_4243692_problem04.c:10:5: note: previous definition of 'main' was here
+ int main() {
+     ^~~~
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+STUDENT: zamanrifatbin (Score: 5.0/15.0)
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+📌 Question 1 [Auto-assigned from UUID]:
+   File: zamanrifatbin_98356_4235152_main-2c0621b7-9f12-4c6c-aa9f-2f8ac13ac227.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamanrifatbin_98356_4235152_main-2c0621b7-9f12-4c6c-aa9f-2f8ac13ac227.c:5:1: error: expected identifier or '(' before '{' token
+ {
+ ^
+
+📌 Question 3 [Auto-assigned from UUID]:
+   File: zamanrifatbin_98356_4235155_main-1810c410-099f-4452-b041-95d738ccebdd.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamanrifatbin_98356_4235155_main-1810c410-099f-4452-b041-95d738ccebdd.c:22:6: error: redefinition of 'findlength'
+  int findlength(char *s) {
+      ^~~~~~~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamanrifatbin_98356_4235155_main-1810c410-099f-4452-b041-95d738ccebdd.c:8:5: note: previous definition of 'findlength' was here
+ int findlength(char s[]) {
+     ^~~~~~~~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamanrifatbin_98356_4235155_main-1810c410-099f-4452-b041-95d738ccebdd.c:31:5: error: redefinition of 'main'
+ int main()
+     ^~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamanrifatbin_98356_4235155_main-1810c410-099f-4452-b041-95d738ccebdd.c:15:5: note: previous definition of 'main' was here
+ int main() {
+     ^~~~
+
+📌 Question 4 [Auto-assigned from UUID]:
+   File: zamanrifatbin_98356_4235156_main-b0b4065f-8cd6-4f89-9622-f6464dbac903.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamanrifatbin_98356_4235156_main-b0b4065f-8cd6-4f89-9622-f6464dbac903.c:26:1: error: stray '\' in program
+ \\numb
+ ^
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamanrifatbin_98356_4235156_main-b0b4065f-8cd6-4f89-9622-f6464dbac903.c:26:2: error: stray '\' in program
+ \\numb
+  ^
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamanrifatbin_98356_4235156_main-b0b4065f-8cd6-4f89-9622-f6464dbac903.c:28:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'void'
+ void rev_arr(int *arr1, int *rev_arr1, int size)
+ ^~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamanrifatbin_98356_4235156_main-b0b4065f-8cd6-4f89-9622-f6464dbac903.c:37:5: error: redefinition of 'main'
+ int main()
+     ^~~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamanrifatbin_98356_4235156_main-b0b4065f-8cd6-4f89-9622-f6464dbac903.c:13:5: note: previous definition of 'main' was here
+ int main()
+     ^~~~
+
+📌 Question 6 [Auto-assigned from UUID]:
+   File: zamanrifatbin_98356_4235158_main-68682c70-fbda-47d6-a991-e4c5be459c53.c
+------------------------------------------------------------
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamanrifatbin_98356_4235158_main-68682c70-fbda-47d6-a991-e4c5be459c53.c: In function 'main':
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamanrifatbin_98356_4235158_main-68682c70-fbda-47d6-a991-e4c5be459c53.c:17:27: error: 'MAX' undeclared (first use in this function)
+     struct Book_info book[MAX];
+                           ^~~
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamanrifatbin_98356_4235158_main-68682c70-fbda-47d6-a991-e4c5be459c53.c:17:27: note: each undeclared identifier is reported only once for each function it appears in
+C:\Users\amanu\Downloads\cse115 sec 10 assignment 2\submitted files\zamanrifatbin_98356_4235158_main-68682c70-fbda-47d6-a991-e4c5be459c53.c:86:12: warning: implicit declaration of function 'strcmp' [-Wimplicit-function-declaration]
+         if(strcmp(book[0].author, "Dickens") == 0 ||
+            ^~~~~~
+
+
+====================================================================================================
+SECTION 3: UUID/AUTO-MAPPED FILES (Assigned Q1-Q6 by submission order)
+====================================================================================================
+
+darpanziaulhasankhan:
+   Q1: darpanziaulhasankhan_22001_4242471_main-f80f475a-f04e-4770-8891-960506338a5f.c
+   Q2: darpanziaulhasankhan_22001_4242473_main-db82e259-7c37-4b19-859d-8fa715709937.c
+   Q3: darpanziaulhasankhan_22001_4242475_main-dabe8f25-4b53-47b3-b25d-e94eb8ea2774.c
+   Q4: darpanziaulhasankhan_22001_4242476_main-ad1cc03e-e619-45ce-b136-c23651ef0d43.c
+   Q5: darpanziaulhasankhan_22001_4242479_main-2a184a45-a570-4662-8e57-85843b3f85a5.c
+   Q6: darpanziaulhasankhan_22001_4242480_main-c3f9b7d1-679a-41f3-9bb3-98cc52a49357.c
+   Q6: darpanziaulhasankhan_22001_4242482_main-ae729d72-92f9-4694-89aa-00ec553d1ce2.c
+   Q6: darpanziaulhasankhan_22001_4242483_main-a8d14003-3639-494c-8c29-90155297f822.c
+
+durjoychowdhury:
+   Q1: durjoychowdhury_45837_4242534_main-b0a44d5a-354d-48d8-9d7f-9d653ebab338.c
+   Q2: durjoychowdhury_45837_4242535_main-3336383d-baec-4fce-a6fa-e30d165de966.c
+   Q3: durjoychowdhury_45837_4242537_main-e7274e17-f519-4a68-9fd6-a45a95cc9858.c
+   Q4: durjoychowdhury_45837_4242538_main-03bdb066-d78a-4837-865c-2f13479a2bf5.c
+   Q5: durjoychowdhury_45837_4242540_main-05b4bf97-2849-42a2-b625-14fd97564f7e.c
+   Q6: durjoychowdhury_45837_4242541_main-c964c30f-91eb-4961-bee2-302b5d3db1e2.c
+   Q6: durjoychowdhury_45837_4242544_main-2f14b39d-504f-4cb5-a304-fd897201f273.c
+   Q6: durjoychowdhury_45837_4242557_main-7fef362d-a6f4-45fa-9704-fd1e94c33bd7.c
+
+letheantaralabiba:
+   Q1: letheantaralabiba_77718_4243095_main-3361b2fd-e477-455d-badf-54c76d4a10b0.c
+   Q2: letheantaralabiba_77718_4243099_main-cbe02be3-9271-471f-a6b4-06ee8226868c.c
+   Q3: letheantaralabiba_77718_4243100_main-54fe06d1-97df-441d-a396-3b7ba06ef76a.c
+   Q4: letheantaralabiba_77718_4243102_main-471025f7-f7bd-403a-9d07-481b1043706e.c
+   Q5: letheantaralabiba_77718_4243107_main-0e76ebf0-7c44-4853-9de2-1472502e84eb.c
+   Q6: letheantaralabiba_77718_4243112_main-73a381e0-dbcb-4baa-a529-ab8129c9f79d.c
+   Q6: letheantaralabiba_77718_4243116_main-be37c77a-2836-4e75-b0bb-4180c11d0ae8.c
+   Q6: letheantaralabiba_77718_4243118_main-5281088b-80a3-492d-bb4e-5cd46fe76658.c
+   Q6: letheantaralabiba_77718_4243120_main-d62e89ce-eade-4dfa-9bd5-77d32b2e6470.c
+   Q6: letheantaralabiba_77718_4243122_main-2502e997-90eb-4fdc-befe-33949f68bce5.c
+
+mainurtamanna:
+   Q1: mainurtamanna_88217_4243822_main-041ac830-70d5-4e0d-8f6e-19dd3318b207.c
+   Q2: mainurtamanna_88217_4243823_main-ae3877e7-415c-4cac-b49b-4d44eae673e6.c
+   Q3: mainurtamanna_88217_4243824_main-fcb9e5f8-73d3-46bf-800a-0b97f98caa05.c
+   Q4: mainurtamanna_88217_4243826_main-cf1c354e-b304-44f2-87d4-54cb677157d3.c
+   Q5: mainurtamanna_88217_4243833_main-5f427aff-3303-4d1f-a617-cbf592a01e0f.c
+   Q6: mainurtamanna_88217_4243848_main-464eee64-6480-483b-b97d-4a3bf3142cc2.c
+
+monsurmaisha:
+   Q1: monsurmaisha_77065_4234015_main-f25373a5-d4b2-4ead-b39e-4ef5c60c16d8.c
+   Q2: monsurmaisha_77065_4234018_main-7ab5fdd6-3209-4d8c-9a13-89388601b879.c
+   Q3: monsurmaisha_77065_4234021_main-ee1e26c7-386c-4919-8e25-d1c0645e3050.c
+   Q4: monsurmaisha_77065_4234023_main-4c0494ce-7871-44ae-81c2-6959cc591a3f.c
+   Q5: monsurmaisha_77065_4234024_main-7cd29528-6e5b-4b71-98ab-9c75ab9cef32.c
+   Q6: monsurmaisha_77065_4234025_main-e0d18bbf-2715-4a88-ad4f-38bbf2fb6a0d.c
+
+rahmanehsanur:
+   Q1: rahmanehsanur_76357_4242751_main-4e6d261e-458b-4150-ad83-0a74e5d26a86.c
+   Q2: rahmanehsanur_76357_4242752_main-4176c895-e24a-4309-9e79-e774000d0296.c
+   Q3: rahmanehsanur_76357_4242753_main-4da97d0f-7396-4aca-b31f-ece84761d1bc.c
+   Q4: rahmanehsanur_76357_4242755_main-982a793e-e897-4679-8c52-0fc84c0806a5.c
+   Q5: rahmanehsanur_76357_4242756_main-2a9bb15a-f8c7-480b-8fd4-592b84f51b56.c
+   Q6: rahmanehsanur_76357_4242757_main-be000daf-491b-41f5-8b08-2969cd7b7822.c
+
+rahmanjiyadur:
+   Q1: rahmanjiyadur_78630_4231027_main-4660b0f1-821a-4298-9d3c-154cf195297d.c
+   Q2: rahmanjiyadur_78630_4231029_main-b0730f4d-f8f7-4dbd-a648-edbfabf18237.c
+   Q3: rahmanjiyadur_78630_4231030_main-9f8b38ef-b379-4706-89ef-28992f8e03fa.c
+   Q4: rahmanjiyadur_78630_4231032_main-76d79d9d-bdb0-4a9c-9e22-026dbad08178.c
+   Q5: rahmanjiyadur_78630_4231034_main-cd6f1627-5079-480b-9bb3-8dab61e5c6d5.c
+   Q6: rahmanjiyadur_78630_4231035_main-cb9f0868-7d34-40b1-97d3-e9790caafd88.c
+   Q6: rahmanjiyadur_78630_4231036_main-d65abe37-f858-49ac-8fc9-dc9510dacffb.c
+   Q6: rahmanjiyadur_78630_4231037_main-548cf862-b7d1-4ff7-ad80-e0d997f16cf0.c
+
+talebakmsaad:
+   Q1: talebakmsaad_95414_4243416_main-21a97b57-7576-48fa-be6b-f7fdd2023977.c
+   Q2: talebakmsaad_95414_4243417_main-19fb3007-4b4c-47e1-9da0-e9638640c07f.c
+
+zamanrifatbin:
+   Q1: zamanrifatbin_98356_4235152_main-2c0621b7-9f12-4c6c-aa9f-2f8ac13ac227.c
+   Q2: zamanrifatbin_98356_4235153_main-bbaf41c6-429f-4e79-a02f-5a380490e251.c
+   Q3: zamanrifatbin_98356_4235155_main-1810c410-099f-4452-b041-95d738ccebdd.c
+   Q4: zamanrifatbin_98356_4235156_main-b0b4065f-8cd6-4f89-9622-f6464dbac903.c
+   Q5: zamanrifatbin_98356_4235157_main-7fcabfb0-1c5d-4778-9783-ceeff3069840.c
+   Q6: zamanrifatbin_98356_4235158_main-68682c70-fbda-47d6-a991-e4c5be459c53.c
+
+
+====================================================================================================
+SECTION 4: SUBMISSION SUMMARY BY STUDENT
+====================================================================================================
+
+
+afzalsanira (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+arafsmhassinarman (Score: 0.0/15.0):
+   Q1: ❌ 0.0 marks - Parts: [main]
+   Q2: ⚠️  Not submitted
+   Q3: ⚠️  Not submitted
+   Q4: ⚠️  Not submitted
+   Q5: ⚠️  Not submitted
+   Q6: ⚠️  Not submitted
+
+asifsadmanmd (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [a, b]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+bhuiyanmahtabuddinahmed (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [a, b]
+   Q4: ✅ 2.5 marks - Parts: [b, a]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+chowdhurylamisaazad (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+darpanziaulhasankhan (Score: 0.0/15.0):
+   Q1: ❌ 0.0 marks - Parts: [main*]
+   Q2: ❌ 0.0 marks - Parts: [main*]
+   Q3: ❌ 0.0 marks - Parts: [main*]
+   Q4: ❌ 0.0 marks - Parts: [main*]
+   Q5: ❌ 0.0 marks - Parts: [main*]
+   Q6: ❌ 0.0 marks - Parts: [main*, b*, c*]
+
+durjoychowdhury (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main*]
+   Q2: ✅ 2.5 marks - Parts: [main*]
+   Q3: ✅ 2.5 marks - Parts: [main*]
+   Q4: ✅ 2.5 marks - Parts: [main*]
+   Q5: ✅ 2.5 marks - Parts: [main*]
+   Q6: ✅ 2.5 marks - Parts: [main*, b*, c*]
+
+eliasishmam (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+eshatamannachowdhury (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [a, b]
+   Q4: ✅ 2.5 marks - Parts: [a, b]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+fihasajutisharmeen (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [a, b]
+   Q4: ✅ 2.5 marks - Parts: [a, b]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+hridoymdnasimuddin (Score: 0.0/15.0):
+   Q1: ⚠️  Not submitted
+   Q2: ❌ 0.0 marks - Parts: [main]
+   Q3: ⚠️  Not submitted
+   Q4: ⚠️  Not submitted
+   Q5: ⚠️  Not submitted
+   Q6: ⚠️  Not submitted
+
+islamhasibul (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+islammowmita (Score: 10.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ❌ 0.0 marks - Parts: [b, a]
+   Q4: ❌ 0.0 marks - Parts: [a, b]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+letheantaralabiba (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main*]
+   Q2: ✅ 2.5 marks - Parts: [main*]
+   Q3: ✅ 2.5 marks - Parts: [main*]
+   Q4: ✅ 2.5 marks - Parts: [main*]
+   Q5: ✅ 2.5 marks - Parts: [main*]
+   Q6: ✅ 2.5 marks - Parts: [main*, b*, c*, d*, e*]
+
+lubabaahmed (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+mahbubaumme (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main, main]
+   Q4: ✅ 2.5 marks - Parts: [main, main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+mahmudmdimtiaz (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+mainurtamanna (Score: 12.5/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main*]
+   Q2: ✅ 2.5 marks - Parts: [main*]
+   Q3: ✅ 2.5 marks - Parts: [main*]
+   Q4: ✅ 2.5 marks - Parts: [main*]
+   Q5: ❌ 0.0 marks - Parts: [main*]
+   Q6: ✅ 2.5 marks - Parts: [main*]
+
+mdjamiulalamjamil (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+mdjobaedhasan (Score: 10.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ❌ 0.0 marks - Parts: [main, b]
+   Q4: ❌ 0.0 marks - Parts: [main, b]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+monsurmaisha (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main*]
+   Q2: ✅ 2.5 marks - Parts: [main*]
+   Q3: ✅ 2.5 marks - Parts: [main*]
+   Q4: ✅ 2.5 marks - Parts: [main*]
+   Q5: ✅ 2.5 marks - Parts: [main*]
+   Q6: ✅ 2.5 marks - Parts: [main*]
+
+newazredwan (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+nirzonmdshafiqrahman (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [a, b]
+   Q4: ✅ 2.5 marks - Parts: [b, a]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+raeenmdrizuanalmasud (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+rafasyedanafisanayer (Score: 10.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ❌ 0.0 marks - Parts: [main, main]
+   Q3: ✅ 2.5 marks - Parts: [b, a]
+   Q4: ✅ 2.5 marks - Parts: [b, a]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ⚠️  Not submitted
+
+rafiulhasanrifat (Score: 10.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [a, b]
+   Q4: ✅ 2.5 marks - Parts: [a, b]
+   Q5: ❌ 0.0 marks - Parts: [a, b, c, d, e, f]
+   Q6: ❌ 0.0 marks - Parts: [a, b, c, d, e]
+
+rahmanehsanur (Score: 12.5/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main*]
+   Q2: ✅ 2.5 marks - Parts: [main*]
+   Q3: ✅ 2.5 marks - Parts: [main*]
+   Q4: ✅ 2.5 marks - Parts: [main*]
+   Q5: ✅ 2.5 marks - Parts: [main*]
+   Q6: ❌ 0.0 marks - Parts: [main*]
+
+rahmanjiyadur (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main*]
+   Q2: ✅ 2.5 marks - Parts: [main*]
+   Q3: ✅ 2.5 marks - Parts: [main*]
+   Q4: ✅ 2.5 marks - Parts: [main*]
+   Q5: ✅ 2.5 marks - Parts: [main*]
+   Q6: ✅ 2.5 marks - Parts: [main*, b*, c*]
+
+rahmansajid (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+rohanrajibchowdhury (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main, b, c]
+
+sarkermdarebi (Score: 10.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ❌ 0.0 marks - Parts: [main]
+   Q4: ❌ 0.0 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+somualimahamud (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+talebakmsaad (Score: 12.5/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main, main*]
+   Q2: ✅ 2.5 marks - Parts: [main, main*]
+   Q3: ⚠️  Not submitted
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main, b]
+
+tonnysanzanaafrin (Score: 15.0/15.0):
+   Q1: ✅ 2.5 marks - Parts: [main]
+   Q2: ✅ 2.5 marks - Parts: [main]
+   Q3: ✅ 2.5 marks - Parts: [main]
+   Q4: ✅ 2.5 marks - Parts: [main]
+   Q5: ✅ 2.5 marks - Parts: [main]
+   Q6: ✅ 2.5 marks - Parts: [main]
+
+zamanrifatbin (Score: 5.0/15.0):
+   Q1: ❌ 0.0 marks - Parts: [main*]
+   Q2: ✅ 2.5 marks - Parts: [main*]
+   Q3: ❌ 0.0 marks - Parts: [main*]
+   Q4: ❌ 0.0 marks - Parts: [main*]
+   Q5: ✅ 2.5 marks - Parts: [main*]
+   Q6: ❌ 0.0 marks - Parts: [main*]
+
+
+* = Auto-assigned from UUID filename based on submission order
